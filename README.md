@@ -7,12 +7,20 @@ This is a repository for our final game project.
 Game Description: 
 
 3 games similar:
-1. 
-2.
-3. 
+1. Mario
+2. Sonic
+3. Crash the Fox
 
 In what ways similar and different:
-
-
+Diff:
+  - Have a gun
+  - Smaller size
+  - Non-profit
+    
+Similarity:
+  - RPG
+  - Levels
+  - 2D
+  - NPC
 
 
