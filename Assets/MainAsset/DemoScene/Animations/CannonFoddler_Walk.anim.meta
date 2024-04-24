@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2516506a0d0b9846a13bc2a42999663
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106860
+  packageName: '[2D] 8Bit Pixel Pirates'
+  packageVersion: 1.0
+  assetPath: Assets/MainAsset/DemoScene/Animations/CannonFoddler_Walk.anim
+  uploadId: 301447

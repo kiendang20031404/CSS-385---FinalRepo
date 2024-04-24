@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4861205d9f3a99a4baca6bb125546a76
+timeCreated: 1481892400
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106860
+  packageName: '[2D] 8Bit Pixel Pirates'
+  packageVersion: 1.0
+  assetPath: Assets/MainAsset/DemoScene/Scripts/Movement Scripts/PlayerScripts/Scout_Move.cs
+  uploadId: 301447

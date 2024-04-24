@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38fc5f4c8bae8654796fa0dd9fd6ae37
+timeCreated: 1502716873
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106860
+  packageName: '[2D] 8Bit Pixel Pirates'
+  packageVersion: 1.0
+  assetPath: Assets/MainAsset/DemoScene/Bullet Prefabs/Heavy_Bullet.prefab
+  uploadId: 301447

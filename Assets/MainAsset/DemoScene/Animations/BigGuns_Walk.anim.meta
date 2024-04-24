@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31f3f472f6b1719409bfafa5a971b7ad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106860
+  packageName: '[2D] 8Bit Pixel Pirates'
+  packageVersion: 1.0
+  assetPath: Assets/MainAsset/DemoScene/Animations/BigGuns_Walk.anim
+  uploadId: 301447

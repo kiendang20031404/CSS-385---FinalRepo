@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2acf128205663c4c950a75f99eb2dd8
+timeCreated: 1502716864
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106860
+  packageName: '[2D] 8Bit Pixel Pirates'
+  packageVersion: 1.0
+  assetPath: Assets/MainAsset/DemoScene/Bullet Prefabs/Spy_Bullet.prefab
+  uploadId: 301447

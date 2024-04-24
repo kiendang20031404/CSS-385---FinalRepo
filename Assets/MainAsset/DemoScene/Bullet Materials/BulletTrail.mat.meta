@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3449e03e6f83cde48856b460b4615b01
+timeCreated: 1502563750
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106860
+  packageName: '[2D] 8Bit Pixel Pirates'
+  packageVersion: 1.0
+  assetPath: Assets/MainAsset/DemoScene/Bullet Materials/BulletTrail.mat
+  uploadId: 301447

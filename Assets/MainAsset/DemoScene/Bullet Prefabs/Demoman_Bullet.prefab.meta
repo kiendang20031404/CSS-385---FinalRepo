@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4ab0aea4d17bac409845f00c1ebdd90
+timeCreated: 1502718136
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106860
+  packageName: '[2D] 8Bit Pixel Pirates'
+  packageVersion: 1.0
+  assetPath: Assets/MainAsset/DemoScene/Bullet Prefabs/Demoman_Bullet.prefab
+  uploadId: 301447
